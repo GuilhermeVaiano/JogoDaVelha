@@ -27,7 +27,7 @@ Para futuras versões, quando obter mais conhecimento da linguagem, pretendo cri
 
 ```bash
 # Passo 1: Clonar o repositorio:
-
+git clone https://github.com/GuilhermeVaiano/JogoDaVelha.git
 
 # Passo 2: Acessar a pasta do projeto com o Prompt de Comando
 # (Obs.: O comando a seguir é feito a partir de onde a pasta do projeto foi salva):
